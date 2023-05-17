@@ -9,6 +9,6 @@ Demo
 
 ## Colab Example
 
-this is the [notebook]()
+this is the [notebook](technical_docs.ipynb)
 
 
